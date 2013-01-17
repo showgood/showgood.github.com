@@ -5,17 +5,19 @@ title: PDF expert VS iAnnotate PDF
 
 This is only the addition to this review:
 
-[[http://cynicalbabblings.wordpress.com/2012/04/05/pdf-editing-apps-2012-review/]]
+http://cynicalbabblings.wordpress.com/2012/04/05/pdf-editing-apps-2012-review/
 
 #annotation view:
 ##iAnnotate PDF
 slightly better because it shows the highlight color.
+
 however it also has an issue when oepnning a pdf with annotation made in PDF expert,
 then its annotation view can't not show the text with highlight, just say highlight with empty
 
 #customize toolbar:
 iAnnotate PDF turns out useful for the case when you want to highlight with different color, then it's easy to
 achieve in iAnnotate PDF since you can put two highlight pen(with different color) in the toolbar
+
 But it's difficult with PDF expert since everytime you have to change the color and feel cumbersome
 
 #Text Stamp:
@@ -30,7 +32,6 @@ Also you see some noise which is other folders in dropbox in that case which mak
 
 ##PDF expert
 PDF expert is better since you can map a remote folder without having to follow the directory structure for that remote folder 
-But with PDF expert, you can just have a folder Reading which maps to Dropbox/Reading
 
 #File Info:
 PDF expert: can NOT see the info like file size, not convenient sometimes
