@@ -3,8 +3,9 @@ layout: default
 title: PDF expert VS iAnnotate PDF
 ---
 
-This is only the addition to the review here:
-http://cynicalbabblings.wordpress.com/2012/04/05/pdf-editing-apps-2012-review/
+This is only the addition to this review:
+
+[[http://cynicalbabblings.wordpress.com/2012/04/05/pdf-editing-apps-2012-review/]]
 
 #annotation view:
 ##iAnnotate PDF
