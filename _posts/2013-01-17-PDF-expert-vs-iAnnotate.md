@@ -13,7 +13,7 @@ slightly better because it shows the highlight color.
 
 however it also has an issue when oepnning a pdf with annotation made in PDF expert,
 then its annotation view can't not show the text with highlight, just say highlight with empty
-http://dl.dropbox.com/u/73758561/blog/annotate_view.JPG
+![annotate view for iAnnotate PDF](http://dl.dropbox.com/u/73758561/blog/annotate_view.JPG)
 
 #customize toolbar:
 iAnnotate PDF turns out useful for the case when you want to highlight with different color, then it's easy to
