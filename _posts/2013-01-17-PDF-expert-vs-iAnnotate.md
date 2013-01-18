@@ -11,7 +11,7 @@ http://cynicalbabblings.wordpress.com/2012/04/05/pdf-editing-apps-2012-review/
 ##iAnnotate PDF
 slightly better because it shows the highlight color.
 
-however it also has an issue when oepnning a pdf with annotation made in PDF expert,
+however it also has a major issue when oepnning a pdf with annotation made in PDF expert(actually in any other pdf software other than iAnnotate itself),
 then its annotation view can't not show the text with highlight, just say highlight with empty
 
 ![annotate view for iAnnotate PDF](http://dl.dropbox.com/u/73758561/blog/annotate_view.JPG)
