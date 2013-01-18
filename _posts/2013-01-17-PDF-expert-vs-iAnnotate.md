@@ -1,14 +1,18 @@
 ---
-layout: default
+layout: post
 title: PDF expert VS iAnnotate PDF
+date: 2013-01-17 21:50
+category: "Apple"
+tags: [iPad, PDF]
 ---
+{% include JB/setup %}
 
 This is only the addition to this review:
 
 http://cynicalbabblings.wordpress.com/2012/04/05/pdf-editing-apps-2012-review/
 
-#annotation view:
-##iAnnotate PDF
+###annotation view:
+#iAnnotate PDF
 slightly better because it shows the highlight color.
 
 however it also has a major issue when oepnning a pdf with annotation made in PDF expert(actually in any other pdf software other than iAnnotate itself),
@@ -16,7 +20,7 @@ then its annotation view can't not show the text with highlight, just say highli
 
 ![annotate view for iAnnotate PDF](http://dl.dropbox.com/u/73758561/blog/annotate_view.JPG)
 
-#customize toolbar:
+###customize toolbar:
 iAnnotate PDF turns out useful for the case when you want to highlight with different color, then it's easy to
 achieve in iAnnotate PDF since you can put two highlight pen(with different color) in the toolbar
 
